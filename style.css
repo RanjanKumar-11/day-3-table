@@ -30,10 +30,10 @@ img{
     height: 160px;
     width: 150px;
     border: 5px solid rgb(0, 0, 0);
-    border-top-left-radius: 15% ;
-    border-top-right-radius: 15%;
-    border-bottom-right-radius:15% ;
-    border-bottom-left-radius: 15% ;
+    border-top-left-radius: 35% ;
+    border-top-right-radius: 6%;
+    border-bottom-right-radius:35% ;
+    border-bottom-left-radius: 6% ;
 }
 body{
     background:url(./Cricket\ Wallpaper.jpg);
